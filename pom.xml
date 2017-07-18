@@ -32,7 +32,7 @@
           </descriptorRefs>
           <archive>
             <manifest>
-              <mainClass>com.alesandro.App</mainClass>
+              <mainClass>com.alesandro.MvnApp</mainClass>
             </manifest>
           </archive>
         </configuration>
